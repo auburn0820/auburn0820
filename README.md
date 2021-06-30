@@ -4,6 +4,8 @@
     <img src="https://user-images.githubusercontent.com/52224922/123888268-17a1df80-d98e-11eb-8531-827003bc731e.png" />
 </div>
 
+***
+
 <div align="center">
     <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
     <img alt="Swift" src="https://img.shields.io/badge/swift-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white"/>
@@ -16,10 +18,3 @@
     <img src="https://github-readme-stats.vercel.app/api?username=auburn0820&count_private=true" /> <br><br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=auburn0820&langs_count=8)](https://github.com/anuraghazra/github-readme-stats" />
 </div>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=auburn0820&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=auburn0820&repo=convoychat" />
-</a>
