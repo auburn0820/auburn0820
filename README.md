@@ -2,7 +2,7 @@
 
 - E-mail : auburn0820@naver.com
 - Blog : [슬기로운 개발 생활](https://blog.naver.com/auburn0820)
-- Notion : [프로필](https://www.notion.so/b75071f02e024bc797be643995b0a9c3)
+- Notion : [노션이 보기 더 좋다, ](https://www.notion.so/b75071f02e024bc797be643995b0a9c3)
 
 ## About me
 
