@@ -1,12 +1,11 @@
 # 피수영
-
+![_](https://user-images.githubusercontent.com/52224922/123888268-17a1df80-d98e-11eb-8531-827003bc731e.png)
 - E-mail : auburn0820@naver.com
 - Blog : [슬기로운 개발 생활](https://blog.naver.com/auburn0820)
 - Notion : [노션이 보기 더 좋다, 이 말씀!](https://www.notion.so/b75071f02e024bc797be643995b0a9c3)
 
 ## About me
-
-
+- 1996.08.20
 - iOS 개발에 관심 있습니다.
 - C++를 좋아합니다.
 - 항상 좋은 코드를 생각하며 코딩을 하려고 노력합니다.
@@ -37,5 +36,5 @@
 
 ## 프로젝트
 
-- Best Lifter, iOS 및 딥러닝 모델, (2021.03 ~ 2021.06) : 졸업 프로젝트
-- Bar Tracker, iOS, (2021.06 ~) : 바벨 경로 추적 어플리케이션
+- Best Lifter, iOS 및 딥러닝 모델 개발, (2021.03 ~ 2021.06) : 졸업 프로젝트
+- Bar Tracker, iOS 개발, (2021.06 ~) : 바벨 경로 추적 어플리케이션
