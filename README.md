@@ -1,8 +1,9 @@
-# 피수영(26)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Suyeong&fontSize=90)
+<div align="center">
 ![_](https://user-images.githubusercontent.com/52224922/123888268-17a1df80-d98e-11eb-8531-827003bc731e.png)
 
 이 문서에서 개인적인 경험에 대한 회고 및 느낀점은 편한 말투로 작성하였으니, 양해 바랍니다.
-
+</div>
 ---
 - E-mail : auburn0820@naver.com
 - Blog : [슬기로운 개발 생활](https://blog.naver.com/auburn0820)
@@ -18,11 +19,12 @@
 - 파워리프팅 국가대표를 꿈꾸고 있습니다.
 
 ## 기술
-
-- Client : iOS
-- Language : C++, Swift
-- ETC : Git
-
+<div align="center">
+<img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img alt="Swift" src="https://img.shields.io/badge/swift-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white"/>
+<img alt="IOS" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=Apple&logoColor=white">
+<img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+</div>
 ## 학력
 
 - 문창고등학교 (2012.03 ~ 2015.02)
