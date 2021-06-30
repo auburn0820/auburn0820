@@ -17,4 +17,8 @@
     <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=auburn0820&count_private=true" />
+---
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=auburn0820&count_private=true" />
+</div>
