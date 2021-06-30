@@ -1,8 +1,8 @@
 
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=suyeong&fontSize=90" />
-    <img src="https://user-images.githubusercontent.com/52224922/123888268-17a1df80-d98e-11eb-8531-827003bc731e.png" />
-    <a href="https://www.notion.so/26-b75071f02e024bc797be643995b0a9c3">노션입니다</a>
+    <img src="https://user-images.githubusercontent.com/52224922/123888268-17a1df80-d98e-11eb-8531-827003bc731e.png" /> <br>
+    <a href="https://www.notion.so/26-b75071f02e024bc797be643995b0a9c3">Notion</a>
 </div>
 <div align="center">
     <h2 align="center">Tech Stack</h2>
