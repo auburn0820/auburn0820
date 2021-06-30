@@ -12,6 +12,6 @@
 </div>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=auburn0820&count_private=true" /> <br>
+    <img src="https://github-readme-stats.vercel.app/api?username=auburn0820&count_private=true" /> <br><br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=auburn0820&langs_count=8)](https://github.com/anuraghazra/github-readme-stats" />
 </div>
