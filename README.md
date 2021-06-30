@@ -1,6 +1,6 @@
 
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Suyeong&fontSize=90" />
+    <img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=피수영&fontSize=90" />
     <img src="https://user-images.githubusercontent.com/52224922/123888268-17a1df80-d98e-11eb-8531-827003bc731e.png" />
 </div>
 
