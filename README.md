@@ -6,7 +6,7 @@
 ---
 - E-mail : auburn0820@naver.com
 - Blog : [슬기로운 개발 생활](https://blog.naver.com/auburn0820)
-- Notion : [해당 문서는 노션을 뿌리로 두고 있습니다](https://www.notion.so/b75071f02e024bc797be643995b0a9c3)
+- Notion : [이 문서는 노션에 뿌리를 두고 있습니다](https://www.notion.so/b75071f02e024bc797be643995b0a9c3)
 
 ## About me
 - 1996.08.20
