@@ -1,7 +1,8 @@
 
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=I am Suyeong&fontSize=90" /> <br>
-    <img src="https://img.shields.io/badge/Naver Blog-1EC800?style=flat-square&logo=Naver&logoColor=white"/>
+    <a href="https://blog.naver.com/auburn0820">
+    <img src="https://img.shields.io/badge/Naver Blog-1EC800?style=flat-square&logo=Naver&logoColor=white"/><a>
 </div>
 <div align="center">
     <h2 align="center">Tech Stack</h2>
