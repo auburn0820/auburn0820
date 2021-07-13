@@ -3,9 +3,10 @@
     <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=I am Suyeong&fontSize=90" /> <br>
     <a href="https://blog.naver.com/auburn0820">
     <img src="https://img.shields.io/badge/Naver Blog-1EC800?style=flat-square&logo=Naver&logoColor=white"/><a> <br>
-        
-    <a href="https://www.notion.so/26-b75071f02e024bc797be643995b0a9c3"">
-    <img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat-square&logo=Notion&logoColor=white"/><a> <br>
+    
+    <a href="https://blog.naver.com/auburn0820">
+    <img src="https://img.shields.io/badge/Naver Blog-1EC800?style=flat-square&logo=Naver&logoColor=white"/><a> <br>
+    
 </div>
 <div align="center">
     <h2 align="center">Tech Stack</h2>
