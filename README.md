@@ -4,9 +4,7 @@
     
     <a href="https://blog.naver.com/auburn0820">
     <img src="https://img.shields.io/badge/Naver Blog-1EC800?style=flat-square&logo=Naver&logoColor=white"/></a>&nbsp
-    
-    <a href="https://www.notion.so/26-b75071f02e024bc797be643995b0a9c3">
-    <img src="https://img.shields.io/badge/Naver Blog-FFFFFF?style=flat-square&logo=Notion&logoColor=white"/></a>&nbsp
+  
     <a href="https://www.notion.so/26-b75071f02e024bc797be643995b0a9c3">노션은 여기입니다</a>
 </div>
 <div align="center">
