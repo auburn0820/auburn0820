@@ -1,6 +1,6 @@
 
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=I am Suyeong&fontSize=90" />
+    <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=I am Suyeong&fontSize=90" /> <br>
     <a href="https://www.notion.so/26-b75071f02e024bc797be643995b0a9c3">노션은 여기입니다</a>
 </div>
 <div align="center">
